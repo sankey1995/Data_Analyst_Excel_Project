@@ -1,5 +1,5 @@
 # "Insightful Excel: A Data Analysis and Visualization Project using Power Query and Pivot Tables"
-As a data analyst, my recent Excel project involved merging two files using Power Query. 
+As a data analyst, My Excel project involved merging two files using Power Query. 
 To ensure accurate merging, I used similar columns from both sheets and checked the data types. 
 After merging the files, I proceeded to clean the data and loaded it into Excel.
 To further analyze the data, I added an integer column using Power Query to calculate the attrition rate. 
